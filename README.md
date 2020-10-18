@@ -6,6 +6,6 @@ SEO is a company looking to expand their business and enhance accessibility to h
 
 How I've assisted them to reach this goal is clean up and rid their code of redundant CSS stylings and Semantic HTML text. I've added descriptors to their images so anyone navigating the site unable to view the image can still imagine what is being displayed through text. This will increase the amount of individuals able to navigate and take advantage their services. While also making the page HTML cleaner and easier to read for any developers revisiting the site to make changes.
 
-link to application: https://jasmineakbari.github.io/refactor-seo/
+link to application: <a href="https://jasmineakbari.github.io/refactor-seo/" target="_blank">https://jasmineakbari.github.io/refactor-seo/</a>
 
 Screen Capture: <img src="seo-screencapture.png" />

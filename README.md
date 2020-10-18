@@ -8,4 +8,5 @@ How I've assisted them to reach this goal is clean up and rid their code of redu
 
 link to application: https://jasmineakbari.github.io/refactor-seo/
 
-Screen Capture: <img src="./seo-screencapture.png" />
+Screen Capture: 
+
